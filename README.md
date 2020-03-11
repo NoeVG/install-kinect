@@ -31,3 +31,26 @@ cmake ..
 make -j4
 sudo make install
 ```
+
+Compile to wrapers in python
+install cython
+
+```
+sudo python -m pip install cython
+```
+
+Compile
+
+```
+mkdir build
+cd build
+cmake .. -DBUILD_PYTHON=ON
+make -j4
+sudo make install
+```
+update path
+```
+sudo ldconfig
+```
+
+
