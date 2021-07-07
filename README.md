@@ -1,4 +1,4 @@
-# Prepare lib to working with kinnect
+# Prepare lib to working with kinect
 
 In ubuntu 20.04.2 LTS :
 
