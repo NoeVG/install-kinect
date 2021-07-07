@@ -57,7 +57,7 @@ Write this example, save: demo_kinect.py  :
 """
 file: demo_kinect.py 
 Ing. Noé Vásquez Godínez
-Miércoles Julio 07 01:36:49
+Miércoles Julio 07 2021 ,01:36:49
 """
 
 # Import kinect
